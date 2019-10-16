@@ -1,0 +1,3793 @@
+Bucks vs Hornets
+Margin: -11
+    0.0819         0
+
+Bucks vs Nets
+Margin: 2
+    0.8978    1.0000
+
+Bucks vs Pistons
+Margin: -15
+    0.1087         0
+
+Bucks vs Pelicans
+Margin: 4
+    0.5123    1.0000
+
+Bucks vs Pacers
+Margin: 18
+    0.9481    1.0000
+
+Bucks vs Kings
+Margin: 26
+    0.9589    1.0000
+
+Bucks vs Mavericks
+Margin: -11
+    0.4771         0
+
+Bucks vs Pelicans
+Margin: -6
+    0.1958         0
+
+Bucks vs Grizzlies
+Margin: 10
+    0.9087    1.0000
+
+Bucks vs Hawks
+Margin: -7
+    0.2331         0
+
+Bucks vs Heat
+Margin: -23
+    0.3969         0
+
+Bucks vs Warriors
+Margin: -3
+    0.2542         0
+
+Bucks vs Magic
+Margin: 4
+    0.3976    1.0000
+
+Bucks vs Raptors
+Margin: -6
+    0.0821         0
+
+Bucks vs Magic
+Margin: 8
+    0.8871    1.0000
+
+Bucks vs Cavaliers
+Margin: 17
+    0.9549    1.0000
+
+Bucks vs Nets
+Margin: 18
+    0.9417    1.0000
+
+Bucks vs Nets
+Margin: 9
+    0.6561    1.0000
+
+Bucks vs Spurs
+Margin: -1
+    0.5422         0
+
+Bucks vs Trailblazers
+Margin: 8
+    0.7230    1.0000
+
+Bucks vs Hawks
+Margin: -4
+    0.8431         0
+
+Bucks vs Wizards
+Margin: -5
+    0.6037         0
+
+Bucks vs Raptors
+Margin: -22
+    0.0973         0
+
+Bucks vs Bulls
+Margin: 11
+    0.9620    1.0000
+
+Bucks vs Bulls
+Margin: 26
+    0.9518    1.0000
+
+Bucks vs Cavaliers
+Margin: -6
+    0.1116         0
+
+Bucks vs Cavaliers
+Margin: -11
+    0.0939         0
+
+Bucks vs Wizards
+Margin: 27
+    0.9619    1.0000
+
+Bucks vs Wizards
+Margin: -5
+    0.5647         0
+
+Bulls vs Celtics
+Margin: 6
+    0.8501    1.0000
+
+Bulls vs Pacers
+Margin: 17
+    0.9568    1.0000
+
+Bulls vs Nets
+Margin: 30
+    0.9616    1.0000
+
+Bulls vs Celtics
+Margin: -7
+    0.1755         0
+
+Bulls vs Knicks
+Margin: -13
+    0.4004         0
+
+Bulls vs Pacers
+Margin: -17
+    0.0819         0
+
+Bulls vs Magic
+Margin: 32
+    0.9439    1.0000
+
+Bulls vs Hawks
+Margin: -8
+    0.0829         0
+
+Bulls vs Heat
+Margin: 3
+    0.5342    1.0000
+
+Bulls vs Wizards
+Margin: 11
+    0.9223    1.0000
+
+Bulls vs Trailblazers
+Margin: 25
+    0.9401    1.0000
+
+Bulls vs Jazz
+Margin: 8
+    0.9381    1.0000
+
+Bulls vs Clippers
+Margin: -7
+    0.7394         0
+
+Bulls vs Lakers
+Margin: 8
+    0.9339    1.0000
+
+Bulls vs Nuggets
+Margin: -3
+    0.5324         0
+
+Bulls vs Seventysixers
+Margin: 16
+    0.9620    1.0000
+
+Bulls vs Lakers
+Margin: -6
+    0.7403         0
+
+Bulls vs Cavaliers
+Margin: 6
+    0.9005    1.0000
+
+Bulls vs Mavericks
+Margin: -25
+    0.0819         0
+
+Bulls vs Trailblazers
+Margin: -2
+    0.6120         0
+
+Bulls vs Pistons
+Margin: -11
+    0.5604         0
+
+Bulls vs Spurs
+Margin: 4
+    0.8345    1.0000
+
+Bulls vs Heat
+Margin: 5
+    0.9260    1.0000
+
+Bulls vs Timberwolves
+Margin: -5
+    0.5870         0
+
+Bulls vs Bucks
+Margin: -11
+    0.0819         0
+
+Bulls vs Bucks
+Margin: -26
+    0.0819         0
+
+Bulls vs Pistons
+Margin: 31
+    0.9617    1.0000
+
+Bulls vs Wizards
+Margin: -10
+    0.6721         0
+
+Bulls vs Hornets
+Margin: -12
+    0.2806         0
+
+Bulls vs Spurs
+Margin: -19
+    0.1004         0
+
+Bulls vs Pacers
+Margin: 5
+    0.8808    1.0000
+
+Cavaliers vs Knicks
+Margin: 29
+    0.9437    1.0000
+
+Cavaliers vs Raptors
+Margin: 3
+    0.8750    1.0000
+
+Cavaliers vs Magic
+Margin: 6
+    0.9617    1.0000
+
+Cavaliers vs Rockets
+Margin: 8
+    0.5226    1.0000
+
+Cavaliers vs Celtics
+Margin: 6
+    0.9617    1.0000
+
+Cavaliers vs Seventysixers
+Margin: 1
+    0.8944    1.0000
+
+Cavaliers vs Hawks
+Margin: -4
+    0.2786         0
+
+Cavaliers vs Wizards
+Margin: 11
+    0.9524    1.0000
+
+Cavaliers vs Hornets
+Margin: 7
+    0.7063    1.0000
+
+Cavaliers vs Raptors
+Margin: 4
+    0.8783    1.0000
+
+Cavaliers vs Pacers
+Margin: -10
+    0.0968         0
+
+Cavaliers vs Pistons
+Margin: 23
+    0.9621    1.0000
+
+Cavaliers vs Trailblazers
+Margin: 12
+    0.9618    1.0000
+
+Cavaliers vs Mavericks
+Margin: 38
+    0.9621    1.0000
+
+Cavaliers vs Seventysixers
+Margin: 4
+    0.0975    1.0000
+
+Cavaliers vs Bucks
+Margin: -17
+    0.0923         0
+
+Cavaliers vs Clippers
+Margin: -19
+    0.1071         0
+
+Cavaliers vs Bulls
+Margin: -6
+    0.1557         0
+
+Cavaliers vs Raptors
+Margin: 4
+    0.9178    1.0000
+
+Cavaliers vs Knicks
+Margin: 32
+    0.9619    1.0000
+
+Cavaliers vs Heat
+Margin: 30
+    0.9621    1.0000
+
+Cavaliers vs Hornets
+Margin: 11
+    0.9609    1.0000
+
+Cavaliers vs Grizzlies
+Margin: 17
+    0.9616    1.0000
+
+Cavaliers vs Grizzlies
+Margin: -8
+    0.0923         0
+
+Cavaliers vs Lakers
+Margin: 11
+    0.9379    1.0000
+
+Cavaliers vs Bucks
+Margin: 6
+    0.8826    1.0000
+
+Cavaliers vs Bucks
+Margin: 11
+    0.9430    1.0000
+
+Cavaliers vs Nets
+Margin: 20
+    0.9621    1.0000
+
+Cavaliers vs Warriors
+Margin: 1
+    0.0829    1.0000
+
+Cavaliers vs Pistons
+Margin: -16
+    0.0825         0
+
+Celtics vs Nets
+Margin: 5
+    0.9538    1.0000
+
+Celtics vs Bulls
+Margin: -6
+    0.0846         0
+
+Celtics vs Hornets
+Margin: 6
+    0.6218    1.0000
+
+Celtics vs Bulls
+Margin: 7
+    0.8896    1.0000
+
+Celtics vs Cavaliers
+Margin: -6
+    0.0819         0
+
+Celtics vs Nuggets
+Margin: -16
+    0.0819         0
+
+Celtics vs Wizards
+Margin: -25
+    0.0941         0
+
+Celtics vs Knicks
+Margin: 28
+    0.9615    1.0000
+
+Celtics vs Pacers
+Margin: 6
+    0.7893    1.0000
+
+Celtics vs Pelicans
+Margin: -1
+    0.0887         0
+
+Celtics vs Mavericks
+Margin: 7
+    0.8551    1.0000
+
+Celtics vs Warriors
+Margin: -16
+    0.0819         0
+
+Celtics vs Pistons
+Margin: 2
+    0.5807    1.0000
+
+Celtics vs Timberwolves
+Margin: 6
+    0.1603    1.0000
+
+Celtics vs Nets
+Margin: 19
+    0.8258    1.0000
+
+Celtics vs Spurs
+Margin: -6
+    0.6268         0
+
+Celtics vs Heat
+Margin: 8
+    0.9585    1.0000
+
+Celtics vs Pistons
+Margin: -7
+    0.0871         0
+
+Celtics vs Kings
+Margin: 5
+    0.1310    1.0000
+
+Celtics vs Seventysixers
+Margin: 1
+    0.2008    1.0000
+
+Celtics vs Rockets
+Margin: -1
+    0.7470         0
+
+Celtics vs Magic
+Margin: 30
+    0.9436    1.0000
+
+Celtics vs Raptors
+Margin: -7
+    0.4100         0
+
+Celtics vs Thunder
+Margin: -3
+    0.8837         0
+
+Celtics vs Spurs
+Margin: -7
+    0.0848         0
+
+Celtics vs Hornets
+Margin: 8
+    0.6974    1.0000
+
+Celtics vs Heat
+Margin: 10
+    0.9305    1.0000
+
+Celtics vs Grizzlies
+Margin: 3
+    0.0971    1.0000
+
+Celtics vs Pacers
+Margin: 7
+    0.8470    1.0000
+
+Celtics vs Thunder
+Margin: -5
+    0.1452         0
+
+Celtics vs Knicks
+Margin: 5
+    0.9158    1.0000
+
+Celtics vs Grizzlies
+Margin: 10
+    0.9589    1.0000
+
+Clippers vs Trailblazers
+Margin: 8
+    0.5637    1.0000
+
+Clippers vs Jazz
+Margin: 13
+    0.9568    1.0000
+
+Clippers vs Suns
+Margin: 18
+    0.9559    1.0000
+
+Clippers vs Thunder
+Margin: -2
+    0.6279         0
+
+Clippers vs Grizzlies
+Margin: 11
+    0.9568    1.0000
+
+Clippers vs Spurs
+Margin: 24
+    0.9598    1.0000
+
+Clippers vs Pistons
+Margin: 32
+    0.9621    1.0000
+
+Clippers vs Trailblazers
+Margin: 31
+    0.9621    1.0000
+
+Clippers vs Thunder
+Margin: 2
+    0.9158    1.0000
+
+Clippers vs Timberwolves
+Margin: 14
+    0.9408    1.0000
+
+Clippers vs Nets
+Margin: 32
+    0.9515    1.0000
+
+Clippers vs Grizzlies
+Margin: -4
+    0.2761         0
+
+Clippers vs Kings
+Margin: 6
+    0.9615    1.0000
+
+Clippers vs Bulls
+Margin: 7
+    0.1556    1.0000
+
+Clippers vs Raptors
+Margin: 8
+    0.9456    1.0000
+
+Clippers vs Mavericks
+Margin: 20
+    0.9568    1.0000
+
+Clippers vs Pistons
+Margin: -11
+    0.1156         0
+
+Clippers vs Pacers
+Margin: -21
+    0.0838         0
+
+Clippers vs Nets
+Margin: -5
+    0.9580         0
+
+Clippers vs Cavaliers
+Margin: 19
+    0.9568    1.0000
+
+Clippers vs Pelicans
+Margin: 18
+    0.9569    1.0000
+
+Clippers vs Pacers
+Margin: -9
+    0.2793         0
+
+Clippers vs Warriors
+Margin: -17
+    0.0916         0
+
+Clippers vs Pelicans
+Margin: 28
+    0.9522    1.0000
+
+Clippers vs Trailblazers
+Margin: 1
+    0.7328    1.0000
+
+Clippers vs Magic
+Margin: 5
+    0.7417    1.0000
+
+Clippers vs Heat
+Margin: 4
+    0.9572    1.0000
+
+Clippers vs Wizards
+Margin: -7
+    0.7883         0
+
+Clippers vs Nuggets
+Margin: 17
+    0.9621    1.0000
+
+Clippers vs Spurs
+Margin: 5
+    0.9308    1.0000
+
+Clippers vs Mavericks
+Margin: -2
+    0.8524         0
+
+Clippers vs Lakers
+Margin: -9
+    0.1021         0
+
+Clippers vs Nuggets
+Margin: -4
+    0.5583         0
+
+Grizzlies vs Timberwolves
+Margin: 4
+    0.5595    1.0000
+
+Grizzlies vs Knicks
+Margin: -7
+    0.0960         0
+
+Grizzlies vs Wizards
+Margin: 9
+    0.6487    1.0000
+
+Grizzlies vs Timberwolves
+Margin: -36
+    0.0819         0
+
+Grizzlies vs Pelicans
+Margin: 6
+    0.8265    1.0000
+
+Grizzlies vs Clippers
+Margin: -11
+    0.1075         0
+
+Grizzlies vs Trailblazers
+Margin: -6
+    0.5677         0
+
+Grizzlies vs Nuggets
+Margin: 1
+    0.9317    1.0000
+
+Grizzlies vs Bucks
+Margin: -10
+    0.0910         0
+
+Grizzlies vs Jazz
+Margin: 6
+    0.9426    1.0000
+
+Grizzlies vs Clippers
+Margin: 4
+    0.8703    1.0000
+
+Grizzlies vs Mavericks
+Margin: 16
+    0.9570    1.0000
+
+Grizzlies vs Timberwolves
+Margin: 22
+    0.9573    1.0000
+
+Grizzlies vs Hornets
+Margin: 15
+    0.9625    1.0000
+
+Grizzlies vs Seventysixers
+Margin: 5
+    0.0852    1.0000
+
+Grizzlies vs Heat
+Margin: -9
+    0.0940         0
+
+Grizzlies vs Heat
+Margin: 3
+    0.4490    1.0000
+
+Grizzlies vs Hornets
+Margin: -19
+    0.1187         0
+
+Grizzlies vs Raptors
+Margin: -15
+    0.1124         0
+
+Grizzlies vs Magic
+Margin: 1
+    0.4809    1.0000
+
+Grizzlies vs Lakers
+Margin: 3
+    0.5686    1.0000
+
+Grizzlies vs Pelicans
+Margin: 2
+    0.8355    1.0000
+
+Grizzlies vs Seventysixers
+Margin: 5
+    0.6754    1.0000
+
+Grizzlies vs Trailblazers
+Margin: 2
+    0.0830    1.0000
+
+Grizzlies vs Warriors
+Margin: 21
+    0.9621    1.0000
+
+Grizzlies vs Cavaliers
+Margin: -17
+    0.0819         0
+
+Grizzlies vs Cavaliers
+Margin: 8
+    0.9457    1.0000
+
+Grizzlies vs Kings
+Margin: -4
+    0.0836         0
+
+Grizzlies vs Jazz
+Margin: -9
+    0.2517         0
+
+Grizzlies vs Celtics
+Margin: -3
+    0.9548         0
+
+Grizzlies vs Pistons
+Margin: 12
+    0.9442    1.0000
+
+Grizzlies vs Rockets
+Margin: 6
+    0.6073    1.0000
+
+Grizzlies vs Magic
+Margin: -10
+    0.0819         0
+
+Grizzlies vs Celtics
+Margin: -10
+    0.0912         0
+
+Hawks vs Wizards
+Margin: 15
+    0.5910    1.0000
+
+Hawks vs Seventysixers
+Margin: 32
+    0.9571    1.0000
+
+Hawks vs Kings
+Margin: 11
+    0.6005    1.0000
+
+Hawks vs Lakers
+Margin: -7
+    0.9106         0
+
+Hawks vs Wizards
+Margin: -3
+    0.2522         0
+
+Hawks vs Rockets
+Margin: 15
+    0.9468    1.0000
+
+Hawks vs Cavaliers
+Margin: 4
+    0.7904    1.0000
+
+Hawks vs Bulls
+Margin: 8
+    0.8570    1.0000
+
+Hawks vs Seventysixers
+Margin: 21
+    0.8807    1.0000
+
+Hawks vs Heat
+Margin: 3
+    0.8396    1.0000
+
+Hawks vs Bucks
+Margin: 7
+    0.8311    1.0000
+
+Hawks vs Hornets
+Margin: -4
+    0.8472         0
+
+Hawks vs Knicks
+Margin: -10
+    0.0821         0
+
+Hawks vs Pelicans
+Margin: -18
+    0.0819         0
+
+Hawks vs Pacers
+Margin: 11
+    0.8491    1.0000
+
+Hawks vs Jazz
+Margin: -27
+    0.1907         0
+
+Hawks vs Lakers
+Margin: -15
+    0.4149         0
+
+Hawks vs Warriors
+Margin: -5
+    0.4837         0
+
+Hawks vs Suns
+Margin: -2
+    0.3955         0
+
+Hawks vs Pistons
+Margin: -36
+    0.0976         0
+
+Hawks vs Raptors
+Margin: -44
+    0.0819         0
+
+Hawks vs Thunder
+Margin: -3
+    0.0939         0
+
+Hawks vs Heat
+Margin: 8
+    0.9587    1.0000
+
+Hawks vs Bucks
+Margin: 4
+    0.2683    1.0000
+
+Hawks vs Magic
+Margin: -11
+    0.2826         0
+
+Hawks vs Raptors
+Margin: 4
+    0.8774    1.0000
+
+Hawks vs Hornets
+Margin: -8
+    0.2737         0
+
+Hawks vs Thunder
+Margin: 2
+    0.7103    1.0000
+
+Hawks vs Timberwolves
+Margin: -8
+    0.5923         0
+
+Hawks vs Nuggets
+Margin: 1
+    0.4940    1.0000
+
+Hawks vs Timberwolves
+Margin: -14
+    0.1048         0
+
+Heat vs Magic
+Margin: 12
+    0.9394    1.0000
+
+Heat vs Hornets
+Margin: -6
+    0.8919         0
+
+Heat vs Spurs
+Margin: -7
+    0.0880         0
+
+Heat vs Kings
+Margin: 12
+    0.9115    1.0000
+
+Heat vs Raptors
+Margin: -9
+    0.3473         0
+
+Heat vs Thunder
+Margin: -12
+    0.0939         0
+
+Heat vs Bulls
+Margin: -3
+    0.4165         0
+
+Heat vs Jazz
+Margin: -11
+    0.0820         0
+
+Heat vs Spurs
+Margin: -4
+    0.0954         0
+
+Heat vs Hawks
+Margin: -3
+    0.3189         0
+
+Heat vs Bucks
+Margin: 23
+    0.8482    1.0000
+
+Heat vs Wizards
+Margin: 3
+    0.9347    1.0000
+
+Heat vs Seventysixers
+Margin: -7
+    0.5371         0
+
+Heat vs Pistons
+Margin: -23
+    0.0819         0
+
+Heat vs Grizzlies
+Margin: 9
+    0.9434    1.0000
+
+Heat vs Grizzlies
+Margin: -3
+    0.6757         0
+
+Heat vs Celtics
+Margin: -8
+    0.2705         0
+
+Heat vs Nuggets
+Margin: 8
+    0.4611    1.0000
+
+Heat vs Jazz
+Margin: 1
+    0.9541    1.0000
+
+Heat vs Trailblazers
+Margin: -7
+    0.4338         0
+
+Heat vs Knicks
+Margin: -11
+    0.1228         0
+
+Heat vs Hawks
+Margin: -8
+    0.0820         0
+
+Heat vs Cavaliers
+Margin: -30
+    0.0820         0
+
+Heat vs Bulls
+Margin: -5
+    0.1228         0
+
+Heat vs Wizards
+Margin: 11
+    0.5397    1.0000
+
+Heat vs Pacers
+Margin: 6
+    0.3171    1.0000
+
+Heat vs Clippers
+Margin: -4
+    0.1404         0
+
+Heat vs Celtics
+Margin: -10
+    0.0910         0
+
+Heat vs Magic
+Margin: -6
+    0.9287         0
+
+Heat vs Lakers
+Margin: 8
+    0.6726    1.0000
+
+Heat vs Pelicans
+Margin: -4
+    0.9457         0
+
+Heat vs Thunder
+Margin: -12
+    0.0825         0
+
+Hornets vs Bucks
+Margin: 11
+    0.9620    1.0000
+
+Hornets vs Heat
+Margin: 6
+    0.2773    1.0000
+
+Hornets vs Celtics
+Margin: -6
+    0.4757         0
+
+Hornets vs Seventysixers
+Margin: 16
+    0.8896    1.0000
+
+Hornets vs Nets
+Margin: 4
+    0.7035    1.0000
+
+Hornets vs Pacers
+Margin: 22
+    0.9613    1.0000
+
+Hornets vs Jazz
+Margin: 6
+    0.1441    1.0000
+
+Hornets vs Raptors
+Margin: -2
+    0.5632         0
+
+Hornets vs Cavaliers
+Margin: -7
+    0.4415         0
+
+Hornets vs Timberwolves
+Margin: 7
+    0.7123    1.0000
+
+Hornets vs Hawks
+Margin: 4
+    0.3525    1.0000
+
+Hornets vs Pelicans
+Margin: -5
+    0.9438         0
+
+Hornets vs Grizzlies
+Margin: -15
+    0.1852         0
+
+Hornets vs Spurs
+Margin: -5
+    0.4254         0
+
+Hornets vs Knicks
+Margin: -2
+    0.3983         0
+
+Hornets vs Knicks
+Margin: 5
+    0.8995    1.0000
+
+Hornets vs Grizzlies
+Margin: 19
+    0.9568    1.0000
+
+Hornets vs Pistons
+Margin: -23
+    0.1088         0
+
+Hornets vs Mavericks
+Margin: 10
+    0.9159    1.0000
+
+Hornets vs Timberwolves
+Margin: -5
+    0.9217         0
+
+Hornets vs Mavericks
+Margin: 8
+    0.1148    1.0000
+
+Hornets vs Pistons
+Margin: 10
+    0.7844    1.0000
+
+Hornets vs Magic
+Margin: 21
+    0.9616    1.0000
+
+Hornets vs Cavaliers
+Margin: -11
+    0.0824         0
+
+Hornets vs Pacers
+Margin: -16
+    0.3660         0
+
+Hornets vs Wizards
+Margin: -3
+    0.2600         0
+
+Hornets vs Celtics
+Margin: -8
+    0.5684         0
+
+Hornets vs Hawks
+Margin: 8
+    0.9128    1.0000
+
+Hornets vs Lakers
+Margin: 4
+    0.3970    1.0000
+
+Hornets vs Bulls
+Margin: 12
+    0.9021    1.0000
+
+Hornets vs Nets
+Margin: -2
+    0.9330         0
+
+Jazz vs Trailblazers
+Margin: -9
+    0.6731         0
+
+Jazz vs Lakers
+Margin: 7
+    0.5812    1.0000
+
+Jazz vs Clippers
+Margin: -13
+    0.1073         0
+
+Jazz vs Spurs
+Margin: 15
+    0.7311    1.0000
+
+Jazz vs Mavericks
+Margin: 16
+    0.8685    1.0000
+
+Jazz vs Spurs
+Margin: -14
+    0.0819         0
+
+Jazz vs Knicks
+Margin: 5
+    0.3225    1.0000
+
+Jazz vs Seventysixers
+Margin: 25
+    0.9620    1.0000
+
+Jazz vs Hornets
+Margin: -6
+    0.8722         0
+
+Jazz vs Magic
+Margin: 13
+    0.4977    1.0000
+
+Jazz vs Heat
+Margin: 11
+    0.9600    1.0000
+
+Jazz vs Grizzlies
+Margin: -6
+    0.0952         0
+
+Jazz vs Bulls
+Margin: -8
+    0.1475         0
+
+Jazz vs Rockets
+Margin: -9
+    0.0829         0
+
+Jazz vs Nuggets
+Margin: -14
+    0.0819         0
+
+Jazz vs Nuggets
+Margin: 25
+    0.9440    1.0000
+
+Jazz vs Hawks
+Margin: 27
+    0.9529    1.0000
+
+Jazz vs Timberwolves
+Margin: 9
+    0.6416    1.0000
+
+Jazz vs Rockets
+Margin: 19
+    0.9540    1.0000
+
+Jazz vs Heat
+Margin: -1
+    0.1649         0
+
+Jazz vs Nuggets
+Margin: 7
+    0.9441    1.0000
+
+Jazz vs Lakers
+Margin: 6
+    0.9614    1.0000
+
+Jazz vs Suns
+Margin: 7
+    0.9559    1.0000
+
+Jazz vs Warriors
+Margin: -7
+    0.0830         0
+
+Jazz vs Kings
+Margin: 20
+    0.7569    1.0000
+
+Jazz vs Thunder
+Margin: 20
+    0.9143    1.0000
+
+Jazz vs Mavericks
+Margin: 3
+    0.9517    1.0000
+
+Jazz vs Grizzlies
+Margin: 9
+    0.8407    1.0000
+
+Jazz vs Warriors
+Margin: -30
+    0.1068         0
+
+Jazz vs Kings
+Margin: -1
+    0.9163         0
+
+Jazz vs Raptors
+Margin: -6
+    0.6110         0
+
+Jazz vs Lakers
+Margin: 2
+    0.4692    1.0000
+
+Kings vs Suns
+Margin: 19
+    0.9567    1.0000
+
+Kings vs Spurs
+Margin: -8
+    0.4103         0
+
+Kings vs Timberwolves
+Margin: 3
+    0.8503    1.0000
+
+Kings vs Hawks
+Margin: -11
+    0.4631         0
+
+Kings vs Heat
+Margin: -12
+    0.0939         0
+
+Kings vs Magic
+Margin: -8
+    0.3755         0
+
+Kings vs Bucks
+Margin: -26
+    0.0820         0
+
+Kings vs Raptors
+Margin: 5
+    0.4616    1.0000
+
+Kings vs Pelicans
+Margin: 8
+    0.9271    1.0000
+
+Kings vs Lakers
+Margin: -10
+    0.9116         0
+
+Kings vs Trailblazers
+Margin: -2
+    0.2506         0
+
+Kings vs Spurs
+Margin: -5
+    0.0832         0
+
+Kings vs Clippers
+Margin: -6
+    0.0819         0
+
+Kings vs Raptors
+Margin: 3
+    0.7174    1.0000
+
+Kings vs Thunder
+Margin: 15
+    0.9531    1.0000
+
+Kings vs Rockets
+Margin: -13
+    0.0819         0
+
+Kings vs Nets
+Margin: 17
+    0.9365    1.0000
+
+Kings vs Wizards
+Margin: -6
+    0.3979         0
+
+Kings vs Celtics
+Margin: -5
+    0.8125         0
+
+Kings vs Knicks
+Margin: -8
+    0.2776         0
+
+Kings vs Mavericks
+Margin: 31
+    0.9441    1.0000
+
+Kings vs Knicks
+Margin: -3
+    0.4654         0
+
+Kings vs Jazz
+Margin: -20
+    0.3476         0
+
+Kings vs Lakers
+Margin: 24
+    0.8385    1.0000
+
+Kings vs Rockets
+Margin: -34
+    0.0819         0
+
+Kings vs Grizzlies
+Margin: 4
+    0.9585    1.0000
+
+Kings vs Mavericks
+Margin: -20
+    0.0819         0
+
+Kings vs Trailblazers
+Margin: 5
+    0.1031    1.0000
+
+Kings vs Jazz
+Margin: 1
+    0.0821    1.0000
+
+Kings vs Timberwolves
+Margin: 4
+    0.1017    1.0000
+
+Kings vs Seventysixers
+Margin: 2
+    0.3634    1.0000
+
+Knicks vs Cavaliers
+Margin: -29
+    0.0996         0
+
+Knicks vs Grizzlies
+Margin: 7
+    0.8720    1.0000
+
+Knicks vs Pistons
+Margin: -13
+    0.1244         0
+
+Knicks vs Rockets
+Margin: -19
+    0.0819         0
+
+Knicks vs Bulls
+Margin: 13
+    0.7362    1.0000
+
+Knicks vs Jazz
+Margin: -5
+    0.7353         0
+
+Knicks vs Nets
+Margin: 14
+    0.4815    1.0000
+
+Knicks vs Celtics
+Margin: -28
+    0.0821         0
+
+Knicks vs Raptors
+Margin: -11
+    0.4095         0
+
+Knicks vs Mavericks
+Margin: 16
+    0.9373    1.0000
+
+Knicks vs Pistons
+Margin: 3
+    0.9420    1.0000
+
+Knicks vs Wizards
+Margin: -7
+    0.0819         0
+
+Knicks vs Hawks
+Margin: 10
+    0.9554    1.0000
+
+Knicks vs Trailblazers
+Margin: 4
+    0.4143    1.0000
+
+Knicks vs Hornets
+Margin: 2
+    0.7816    1.0000
+
+Knicks vs Hornets
+Margin: -5
+    0.1349         0
+
+Knicks vs Thunder
+Margin: -9
+    0.3308         0
+
+Knicks vs Timberwolves
+Margin: 2
+    0.8796    1.0000
+
+Knicks vs Timberwolves
+Margin: 4
+    0.9150    1.0000
+
+Knicks vs Kings
+Margin: 8
+    0.7270    1.0000
+
+Knicks vs Heat
+Margin: 11
+    0.9347    1.0000
+
+Knicks vs Cavaliers
+Margin: -32
+    0.0819         0
+
+Knicks vs Kings
+Margin: 3
+    0.3887    1.0000
+
+Knicks vs Lakers
+Margin: 6
+    0.9447    1.0000
+
+Knicks vs Suns
+Margin: -2
+    0.0822         0
+
+Knicks vs Warriors
+Margin: -13
+    0.0819         0
+
+Knicks vs Nuggets
+Margin: -13
+    0.0940         0
+
+Knicks vs Pacers
+Margin: 7
+    0.1103    1.0000
+
+Knicks vs Magic
+Margin: 11
+    0.9435    1.0000
+
+Knicks vs Celtics
+Margin: -5
+    0.4142         0
+
+Lakers vs Rockets
+Margin: 6
+    0.2411    1.0000
+
+Lakers vs Jazz
+Margin: -7
+    0.2950         0
+
+Lakers vs Thunder
+Margin: -17
+    0.1020         0
+
+Lakers vs Pacers
+Margin: -7
+    0.0909         0
+
+Lakers vs Hawks
+Margin: 7
+    0.0912    1.0000
+
+Lakers vs Warriors
+Margin: 20
+    0.9278    1.0000
+
+Lakers vs Suns
+Margin: 11
+    0.8525    1.0000
+
+Lakers vs Mavericks
+Margin: -12
+    0.1140         0
+
+Lakers vs Kings
+Margin: 10
+    0.1876    1.0000
+
+Lakers vs Pelicans
+Margin: 27
+    0.9431    1.0000
+
+Lakers vs Timberwolves
+Margin: -26
+    0.1149         0
+
+Lakers vs Nets
+Margin: 7
+    0.9488    1.0000
+
+Lakers vs Spurs
+Margin: -9
+    0.1849         0
+
+Lakers vs Bulls
+Margin: -8
+    0.0848         0
+
+Lakers vs Thunder
+Margin: 2
+    0.7205    1.0000
+
+Lakers vs Warriors
+Margin: -43
+    0.0820         0
+
+Lakers vs Warriors
+Margin: -24
+    0.0820         0
+
+Lakers vs Hawks
+Margin: 15
+    0.8436    1.0000
+
+Lakers vs Pelicans
+Margin: -17
+    0.0820         0
+
+Lakers vs Bulls
+Margin: 6
+    0.4069    1.0000
+
+Lakers vs Raptors
+Margin: -33
+    0.0874         0
+
+Lakers vs Grizzlies
+Margin: -3
+    0.5491         0
+
+Lakers vs Jazz
+Margin: -6
+    0.0822         0
+
+Lakers vs Rockets
+Margin: -39
+    0.0941         0
+
+Lakers vs Suns
+Margin: -4
+    0.0824         0
+
+Lakers vs Knicks
+Margin: -6
+    0.0874         0
+
+Lakers vs Kings
+Margin: -24
+    0.3954         0
+
+Lakers vs Nets
+Margin: -10
+    0.6144         0
+
+Lakers vs Seventysixers
+Margin: 11
+    0.9566    1.0000
+
+Lakers vs Cavaliers
+Margin: -11
+    0.3437         0
+
+Lakers vs Hornets
+Margin: -4
+    0.5738         0
+
+Lakers vs Heat
+Margin: -8
+    0.5680         0
+
+Lakers vs Magic
+Margin: -19
+    0.0819         0
+
+Lakers vs Clippers
+Margin: 9
+    0.9398    1.0000
+
+Lakers vs Jazz
+Margin: -2
+    0.5630         0
+
+Magic vs Heat
+Margin: -12
+    0.1209         0
+
+Magic vs Pistons
+Margin: -26
+    0.1071         0
+
+Magic vs Cavaliers
+Margin: -6
+    0.0819         0
+
+Magic vs Seventysixers
+Margin: 2
+    0.3036    1.0000
+
+Magic vs Kings
+Margin: 8
+    0.6463    1.0000
+
+Magic vs Wizards
+Margin: 2
+    0.0984    1.0000
+
+Magic vs Bulls
+Margin: -32
+    0.0941         0
+
+Magic vs Timberwolves
+Margin: -16
+    0.0819         0
+
+Magic vs Jazz
+Margin: -13
+    0.7492         0
+
+Magic vs Thunder
+Margin: 2
+    0.5514    1.0000
+
+Magic vs Pacers
+Margin: -19
+    0.0981         0
+
+Magic vs Pelicans
+Margin: 7
+    0.6185    1.0000
+
+Magic vs Mavericks
+Margin: 8
+    0.0980    1.0000
+
+Magic vs Bucks
+Margin: -4
+    0.7245         0
+
+Magic vs Suns
+Margin: -5
+    0.1514         0
+
+Magic vs Wizards
+Margin: -3
+    0.0852         0
+
+Magic vs Bucks
+Margin: -8
+    0.0884         0
+
+Magic vs Spurs
+Margin: 12
+    0.9302    1.0000
+
+Magic vs Grizzlies
+Margin: -1
+    0.7159         0
+
+Magic vs Seventysixers
+Margin: 17
+    0.9536    1.0000
+
+Magic vs Pistons
+Margin: 6
+    0.7738    1.0000
+
+Magic vs Wizards
+Margin: 8
+    0.9463    1.0000
+
+Magic vs Celtics
+Margin: -30
+    0.1265         0
+
+Magic vs Hornets
+Margin: -21
+    0.0827         0
+
+Magic vs Nuggets
+Margin: -8
+    0.5580         0
+
+Magic vs Hawks
+Margin: 11
+    0.7280    1.0000
+
+Magic vs Clippers
+Margin: -5
+    0.4304         0
+
+Magic vs Nets
+Margin: 7
+    0.4865    1.0000
+
+Magic vs Raptors
+Margin: -30
+    0.1064         0
+
+Magic vs Heat
+Margin: 6
+    0.2591    1.0000
+
+Magic vs Knicks
+Margin: -11
+    0.0820         0
+
+Magic vs Lakers
+Margin: 19
+    0.9604    1.0000
+
+Magic vs Grizzlies
+Margin: 10
+    0.9620    1.0000
+
+Mavericks vs Pacers
+Margin: -9
+    0.1013         0
+
+Mavericks vs Rockets
+Margin: -8
+    0.0877         0
+
+Mavericks vs Rockets
+Margin: -1
+    0.0821         0
+
+Mavericks vs Jazz
+Margin: -16
+    0.2168         0
+
+Mavericks vs Trailblazers
+Margin: -10
+    0.2487         0
+
+Mavericks vs Bucks
+Margin: 11
+    0.5893    1.0000
+
+Mavericks vs Lakers
+Margin: 12
+    0.9546    1.0000
+
+Mavericks vs Warriors
+Margin: -21
+    0.0928         0
+
+Mavericks vs Knicks
+Margin: -16
+    0.1670         0
+
+Mavericks vs Celtics
+Margin: -7
+    0.2430         0
+
+Mavericks vs Grizzlies
+Margin: -16
+    0.0871         0
+
+Mavericks vs Magic
+Margin: -8
+    0.9103         0
+
+Mavericks vs Spurs
+Margin: -5
+    0.7131         0
+
+Mavericks vs Clippers
+Margin: -20
+    0.1071         0
+
+Mavericks vs Cavaliers
+Margin: -38
+    0.0819         0
+
+Mavericks vs Pelicans
+Margin: 10
+    0.7431    1.0000
+
+Mavericks vs Spurs
+Margin: -7
+    0.7145         0
+
+Mavericks vs Hornets
+Margin: -10
+    0.1488         0
+
+Mavericks vs Bulls
+Margin: 25
+    0.9605    1.0000
+
+Mavericks vs Hornets
+Margin: -8
+    0.9416         0
+
+Mavericks vs Kings
+Margin: -31
+    0.0939         0
+
+Mavericks vs Pacers
+Margin: 8
+    0.9463    1.0000
+
+Mavericks vs Rockets
+Margin: -22
+    0.0820         0
+
+Mavericks vs Nuggets
+Margin: 20
+    0.9617    1.0000
+
+Mavericks vs Pistons
+Margin: -10
+    0.8697         0
+
+Mavericks vs Jazz
+Margin: -3
+    0.0824         0
+
+Mavericks vs Kings
+Margin: 20
+    0.9617    1.0000
+
+Mavericks vs Nuggets
+Margin: -10
+    0.1522         0
+
+Mavericks vs Trailblazers
+Margin: 1
+    0.9403    1.0000
+
+Mavericks vs Clippers
+Margin: 2
+    0.2006    1.0000
+
+Mavericks vs Pelicans
+Margin: -7
+    0.1252         0
+
+Mavericks vs Rockets
+Margin: -16
+    0.1079         0
+
+Nets vs Celtics
+Margin: -5
+    0.0820         0
+
+Nets vs Pacers
+Margin: 9
+    0.3960    1.0000
+
+Nets vs Bucks
+Margin: -2
+    0.0946         0
+
+Nets vs Bulls
+Margin: -30
+    0.0819         0
+
+Nets vs Pistons
+Margin: 8
+    0.9468    1.0000
+
+Nets vs Hornets
+Margin: -4
+    0.5417         0
+
+Nets vs Timberwolves
+Margin: 9
+    0.8442    1.0000
+
+Nets vs Knicks
+Margin: -14
+    0.6202         0
+
+Nets vs Suns
+Margin: 18
+    0.8332    1.0000
+
+Nets vs Clippers
+Margin: -32
+    0.0820         0
+
+Nets vs Lakers
+Margin: -7
+    0.1120         0
+
+Nets vs Thunder
+Margin: -19
+    0.1241         0
+
+Nets vs Trailblazers
+Margin: -20
+    0.0822         0
+
+Nets vs Celtics
+Margin: -19
+    0.3437         0
+
+Nets vs Pacers
+Margin: -21
+    0.0820         0
+
+Nets vs Kings
+Margin: -17
+    0.0968         0
+
+Nets vs Clippers
+Margin: 5
+    0.0953    1.0000
+
+Nets vs Bucks
+Margin: -18
+    0.1042         0
+
+Nets vs Bucks
+Margin: -9
+    0.2492         0
+
+Nets vs Wizards
+Margin: -5
+    0.5372         0
+
+Nets vs Nuggets
+Margin: 5
+    0.9601    1.0000
+
+Nets vs Spurs
+Margin: -29
+    0.0854         0
+
+Nets vs Rockets
+Margin: -4
+    0.1356         0
+
+Nets vs Lakers
+Margin: 10
+    0.5554    1.0000
+
+Nets vs Magic
+Margin: -7
+    0.5373         0
+
+Nets vs Seventysixers
+Margin: -1
+    0.9332         0
+
+Nets vs Raptors
+Margin: -12
+    0.0861         0
+
+Nets vs Warriors
+Margin: -16
+    0.5373         0
+
+Nets vs Cavaliers
+Margin: -20
+    0.0819         0
+
+Nets vs Hornets
+Margin: 2
+    0.0840    1.0000
+
+Nuggets vs Pelicans
+Margin: 5
+    0.9144    1.0000
+
+Nuggets vs Trailblazers
+Margin: -2
+    0.8031         0
+
+Nuggets vs Raptors
+Margin: -3
+    0.0972         0
+
+Nuggets vs Timberwolves
+Margin: 3
+    0.8310    1.0000
+
+Nuggets vs Pistons
+Margin: -17
+    0.2510         0
+
+Nuggets vs Celtics
+Margin: 16
+    0.9568    1.0000
+
+Nuggets vs Grizzlies
+Margin: -1
+    0.1410         0
+
+Nuggets vs Warriors
+Margin: -24
+    0.0934         0
+
+Nuggets vs Pistons
+Margin: -11
+    0.1930         0
+
+Nuggets vs Trailblazers
+Margin: -7
+    0.2651         0
+
+Nuggets vs Suns
+Margin: 16
+    0.8664    1.0000
+
+Nuggets vs Raptors
+Margin: -2
+    0.6587         0
+
+Nuggets vs Jazz
+Margin: 14
+    0.9540    1.0000
+
+Nuggets vs Bulls
+Margin: 3
+    0.5604    1.0000
+
+Nuggets vs Jazz
+Margin: -25
+    0.0941         0
+
+Nuggets vs Thunder
+Margin: -3
+    0.7832         0
+
+Nuggets vs Suns
+Margin: 6
+    0.7532    1.0000
+
+Nuggets vs Heat
+Margin: -8
+    0.6513         0
+
+Nuggets vs Rockets
+Margin: -18
+    0.0819         0
+
+Nuggets vs Jazz
+Margin: -7
+    0.0938         0
+
+Nuggets vs Seventysixers
+Margin: 8
+    0.6941    1.0000
+
+Nuggets vs Nets
+Margin: -5
+    0.0819         0
+
+Nuggets vs Wizards
+Margin: -7
+    0.5075         0
+
+Nuggets vs Magic
+Margin: 8
+    0.5383    1.0000
+
+Nuggets vs Mavericks
+Margin: -20
+    0.0821         0
+
+Nuggets vs Trailblazers
+Margin: 12
+    0.9493    1.0000
+
+Nuggets vs Knicks
+Margin: 13
+    0.9354    1.0000
+
+Nuggets vs Mavericks
+Margin: 10
+    0.9119    1.0000
+
+Nuggets vs Clippers
+Margin: -17
+    0.0819         0
+
+Nuggets vs Hawks
+Margin: -1
+    0.5235         0
+
+Nuggets vs Clippers
+Margin: 4
+    0.5383    1.0000
+
+Pacers vs Mavericks
+Margin: 9
+    0.8891    1.0000
+
+Pacers vs Nets
+Margin: -9
+    0.7837         0
+
+Pacers vs Bulls
+Margin: -17
+    0.1071         0
+
+Pacers vs Lakers
+Margin: 7
+    0.9537    1.0000
+
+Pacers vs Bucks
+Margin: -18
+    0.1070         0
+
+Pacers vs Bulls
+Margin: 17
+    0.9619    1.0000
+
+Pacers vs Hornets
+Margin: -22
+    0.0825         0
+
+Pacers vs Seventysixers
+Margin: 7
+    0.6571    1.0000
+
+Pacers vs Seventysixers
+Margin: -4
+    0.5265         0
+
+Pacers vs Celtics
+Margin: -6
+    0.4430         0
+
+Pacers vs Magic
+Margin: 19
+    0.9572    1.0000
+
+Pacers vs Cavaliers
+Margin: 10
+    0.9249    1.0000
+
+Pacers vs Suns
+Margin: -20
+    0.0833         0
+
+Pacers vs Thunder
+Margin: 4
+    0.8774    1.0000
+
+Pacers vs Warriors
+Margin: -37
+    0.0819         0
+
+Pacers vs Hawks
+Margin: -11
+    0.0890         0
+
+Pacers vs Nets
+Margin: 21
+    0.9618    1.0000
+
+Pacers vs Clippers
+Margin: 21
+    0.9618    1.0000
+
+Pacers vs Trailblazers
+Margin: -22
+    0.0819         0
+
+Pacers vs Clippers
+Margin: 9
+    0.8428    1.0000
+
+Pacers vs Warriors
+Margin: -36
+    0.0956         0
+
+Pacers vs Suns
+Margin: 15
+    0.6438    1.0000
+
+Pacers vs Mavericks
+Margin: -8
+    0.0941         0
+
+Pacers vs Trailblazers
+Margin: 7
+    0.2349    1.0000
+
+Pacers vs Hornets
+Margin: 16
+    0.8243    1.0000
+
+Pacers vs Heat
+Margin: -6
+    0.6775         0
+
+Pacers vs Pelicans
+Margin: -7
+    0.9393         0
+
+Pacers vs Pistons
+Margin: 15
+    0.9568    1.0000
+
+Pacers vs Wizards
+Margin: 2
+    0.9428    1.0000
+
+Pacers vs Knicks
+Margin: -7
+    0.9044         0
+
+Pacers vs Celtics
+Margin: -7
+    0.3956         0
+
+Pacers vs Bulls
+Margin: -5
+    0.1402         0
+
+Pelicans vs Nuggets
+Margin: -5
+    0.1312         0
+
+Pelicans vs Warriors
+Margin: -8
+    0.0820         0
+
+Pelicans vs Spurs
+Margin: -19
+    0.0819         0
+
+Pelicans vs Bucks
+Margin: -4
+    0.6725         0
+
+Pelicans vs Grizzlies
+Margin: -6
+    0.4099         0
+
+Pelicans vs Suns
+Margin: -1
+    0.4311         0
+
+Pelicans vs Warriors
+Margin: -10
+    0.2741         0
+
+Pelicans vs Kings
+Margin: -8
+    0.0824         0
+
+Pelicans vs Bucks
+Margin: 6
+    0.9335    1.0000
+
+Pelicans vs Lakers
+Margin: -27
+    0.1059         0
+
+Pelicans vs Celtics
+Margin: 1
+    0.9601    1.0000
+
+Pelicans vs Magic
+Margin: -7
+    0.4167         0
+
+Pelicans vs Trailblazers
+Margin: 12
+    0.9582    1.0000
+
+Pelicans vs Hornets
+Margin: 5
+    0.0992    1.0000
+
+Pelicans vs Hawks
+Margin: 18
+    0.9620    1.0000
+
+Pelicans vs Timberwolves
+Margin: 21
+    0.9440    1.0000
+
+Pelicans vs Trailblazers
+Margin: -15
+    0.1075         0
+
+Pelicans vs Mavericks
+Margin: -10
+    0.3998         0
+
+Pelicans vs Lakers
+Margin: 17
+    0.9621    1.0000
+
+Pelicans vs Clippers
+Margin: -18
+    0.1073         0
+
+Pelicans vs Thunder
+Margin: -9
+    0.0838         0
+
+Pelicans vs Grizzlies
+Margin: -2
+    0.3235         0
+
+Pelicans vs Seventysixers
+Margin: -11
+    0.7357         0
+
+Pelicans vs Clippers
+Margin: -28
+    0.0820         0
+
+Pelicans vs Suns
+Margin: 1
+    0.0849    1.0000
+
+Pelicans vs Warriors
+Margin: -4
+    0.6979         0
+
+Pelicans vs Pacers
+Margin: 7
+    0.3960    1.0000
+
+Pelicans vs Rockets
+Margin: -22
+    0.0877         0
+
+Pelicans vs Spurs
+Margin: -13
+    0.0832         0
+
+Pelicans vs Seventysixers
+Margin: 15
+    0.9144    1.0000
+
+Pelicans vs Thunder
+Margin: -11
+    0.0918         0
+
+Pelicans vs Heat
+Margin: 4
+    0.1415    1.0000
+
+Pelicans vs Mavericks
+Margin: 7
+    0.9363    1.0000
+
+Pistons vs Raptors
+Margin: -18
+    0.0819         0
+
+Pistons vs Magic
+Margin: 26
+    0.9568    1.0000
+
+Pistons vs Bucks
+Margin: 15
+    0.9549    1.0000
+
+Pistons vs Knicks
+Margin: 13
+    0.9520    1.0000
+
+Pistons vs Nets
+Margin: -8
+    0.0962         0
+
+Pistons vs Nuggets
+Margin: 17
+    0.8278    1.0000
+
+Pistons vs Clippers
+Margin: -32
+    0.0819         0
+
+Pistons vs Suns
+Margin: -7
+    0.3626         0
+
+Pistons vs Spurs
+Margin: -10
+    0.2621         0
+
+Pistons vs Nuggets
+Margin: 11
+    0.9102    1.0000
+
+Pistons vs Thunder
+Margin: 16
+    0.9465    1.0000
+
+Pistons vs Knicks
+Margin: -3
+    0.0995         0
+
+Pistons vs Cavaliers
+Margin: -23
+    0.0819         0
+
+Pistons vs Celtics
+Margin: -2
+    0.7619         0
+
+Pistons vs Rockets
+Margin: -3
+    0.4212         0
+
+Pistons vs Heat
+Margin: 23
+    0.9607    1.0000
+
+Pistons vs Clippers
+Margin: 11
+    0.8273    1.0000
+
+Pistons vs Thunder
+Margin: -18
+    0.0820         0
+
+Pistons vs Hornets
+Margin: 23
+    0.9390    1.0000
+
+Pistons vs Celtics
+Margin: 7
+    0.9572    1.0000
+
+Pistons vs Hawks
+Margin: 36
+    0.9580    1.0000
+
+Pistons vs Magic
+Margin: -6
+    0.3816         0
+
+Pistons vs Bulls
+Margin: 11
+    0.6421    1.0000
+
+Pistons vs Hornets
+Margin: -10
+    0.2737         0
+
+Pistons vs Timberwolves
+Margin: 27
+    0.9485    1.0000
+
+Pistons vs Seventysixers
+Margin: -18
+    0.0825         0
+
+Pistons vs Mavericks
+Margin: 10
+    0.2289    1.0000
+
+Pistons vs Wizards
+Margin: -14
+    0.1070         0
+
+Pistons vs Pacers
+Margin: -15
+    0.1045         0
+
+Pistons vs Bulls
+Margin: -31
+    0.0848         0
+
+Pistons vs Grizzlies
+Margin: -12
+    0.0884         0
+
+Pistons vs Warriors
+Margin: -6
+    0.2699         0
+
+Pistons vs Cavaliers
+Margin: 16
+    0.9584    1.0000
+
+Raptors vs Pistons
+Margin: 18
+    0.9551    1.0000
+
+Raptors vs Cavaliers
+Margin: -3
+    0.1212         0
+
+Raptors vs Nuggets
+Margin: 3
+    0.9378    1.0000
+
+Raptors vs Wizards
+Margin: 10
+    0.9400    1.0000
+
+Raptors vs Heat
+Margin: 9
+    0.7587    1.0000
+
+Raptors vs Kings
+Margin: -5
+    0.5424         0
+
+Raptors vs Thunder
+Margin: 10
+    0.9299    1.0000
+
+Raptors vs Hornets
+Margin: 2
+    0.5789    1.0000
+
+Raptors vs Knicks
+Margin: 11
+    0.7057    1.0000
+
+Raptors vs Cavaliers
+Margin: -4
+    0.0847         0
+
+Raptors vs Warriors
+Margin: -6
+    0.2639         0
+
+Raptors vs Nuggets
+Margin: 2
+    0.3895    1.0000
+
+Raptors vs Kings
+Margin: -3
+    0.4040         0
+
+Raptors vs Clippers
+Margin: -8
+    0.0864         0
+
+Raptors vs Rockets
+Margin: 13
+    0.9572    1.0000
+
+Raptors vs Bucks
+Margin: 6
+    0.9548    1.0000
+
+Raptors vs Seventysixers
+Margin: 27
+    0.9620    1.0000
+
+Raptors vs Grizzlies
+Margin: 15
+    0.8149    1.0000
+
+Raptors vs Lakers
+Margin: 33
+    0.9569    1.0000
+
+Raptors vs Hawks
+Margin: 44
+    0.9621    1.0000
+
+Raptors vs Cavaliers
+Margin: -4
+    0.1112         0
+
+Raptors vs Timberwolves
+Margin: 14
+    0.4318    1.0000
+
+Raptors vs Celtics
+Margin: 7
+    0.7156    1.0000
+
+Raptors vs Bucks
+Margin: 22
+    0.9405    1.0000
+
+Raptors vs Seventysixers
+Margin: 9
+    0.9569    1.0000
+
+Raptors vs Hawks
+Margin: -4
+    0.0896         0
+
+Raptors vs Magic
+Margin: 30
+    0.9568    1.0000
+
+Raptors vs Nets
+Margin: 12
+    0.9570    1.0000
+
+Raptors vs Jazz
+Margin: 6
+    0.5694    1.0000
+
+Raptors vs Trailblazers
+Margin: 4
+    0.9387    1.0000
+
+Rockets vs Lakers
+Margin: -6
+    0.9277         0
+
+Rockets vs Mavericks
+Margin: 8
+    0.9220    1.0000
+
+Rockets vs Mavericks
+Margin: 1
+    0.9124    1.0000
+
+Rockets vs Cavaliers
+Margin: -8
+    0.6028         0
+
+Rockets vs Knicks
+Margin: 19
+    0.9621    1.0000
+
+Rockets vs Hawks
+Margin: -15
+    0.1046         0
+
+Rockets vs Wizards
+Margin: 8
+    0.4997    1.0000
+
+Rockets vs Spurs
+Margin: 2
+    0.7338    1.0000
+
+Rockets vs Spurs
+Margin: -6
+    0.0821         0
+
+Rockets vs Seventysixers
+Margin: 27
+    0.9528    1.0000
+
+Rockets vs Thunder
+Margin: -2
+    0.6475         0
+
+Rockets vs Trailblazers
+Margin: 17
+    0.9296    1.0000
+
+Rockets vs Jazz
+Margin: 9
+    0.9594    1.0000
+
+Rockets vs Pistons
+Margin: 3
+    0.7864    1.0000
+
+Rockets vs Raptors
+Margin: -13
+    0.0880         0
+
+Rockets vs Kings
+Margin: 13
+    0.9248    1.0000
+
+Rockets vs Trailblazers
+Margin: 16
+    0.8498    1.0000
+
+Rockets vs Jazz
+Margin: -19
+    0.0819         0
+
+Rockets vs Warriors
+Margin: 5
+    0.8273    1.0000
+
+Rockets vs Nuggets
+Margin: 18
+    0.9566    1.0000
+
+Rockets vs Celtics
+Margin: 1
+    0.3513    1.0000
+
+Rockets vs Lakers
+Margin: 39
+    0.9440    1.0000
+
+Rockets vs Thunder
+Margin: 3
+    0.9015    1.0000
+
+Rockets vs Mavericks
+Margin: 22
+    0.9516    1.0000
+
+Rockets vs Nets
+Margin: 4
+    0.8931    1.0000
+
+Rockets vs Kings
+Margin: 34
+    0.9621    1.0000
+
+Rockets vs Pelicans
+Margin: 22
+    0.9608    1.0000
+
+Rockets vs Timberwolves
+Margin: 2
+    0.2131    1.0000
+
+Rockets vs Spurs
+Margin: -2
+    0.6680         0
+
+Rockets vs Suns
+Margin: 14
+    0.8616    1.0000
+
+Rockets vs Grizzlies
+Margin: -6
+    0.5236         0
+
+Rockets vs Suns
+Margin: 16
+    0.9620    1.0000
+
+Rockets vs Mavericks
+Margin: 16
+    0.9568    1.0000
+
+Seventysixers vs Thunder
+Margin: -6
+    0.8919         0
+
+Seventysixers vs Hawks
+Margin: -32
+    0.0954         0
+
+Seventysixers vs Magic
+Margin: -2
+    0.6816         0
+
+Seventysixers vs Hornets
+Margin: -16
+    0.2861         0
+
+Seventysixers vs Cavaliers
+Margin: -1
+    0.1209         0
+
+Seventysixers vs Jazz
+Margin: -25
+    0.0819         0
+
+Seventysixers vs Pacers
+Margin: -7
+    0.5038         0
+
+Seventysixers vs Pacers
+Margin: 4
+    0.5638    1.0000
+
+Seventysixers vs Hawks
+Margin: -21
+    0.2331         0
+
+Seventysixers vs Rockets
+Margin: -27
+    0.0825         0
+
+Seventysixers vs Wizards
+Margin: 7
+    0.9029    1.0000
+
+Seventysixers vs Timberwolves
+Margin: -24
+    0.1070         0
+
+Seventysixers vs Suns
+Margin: 15
+    0.9409    1.0000
+
+Seventysixers vs Heat
+Margin: 7
+    0.5309    1.0000
+
+Seventysixers vs Grizzlies
+Margin: -5
+    0.9574         0
+
+Seventysixers vs Bulls
+Margin: -16
+    0.0820         0
+
+Seventysixers vs Cavaliers
+Margin: -4
+    0.8879         0
+
+Seventysixers vs Raptors
+Margin: -27
+    0.0819         0
+
+Seventysixers vs Magic
+Margin: -17
+    0.0839         0
+
+Seventysixers vs Celtics
+Margin: -1
+    0.7398         0
+
+Seventysixers vs Nuggets
+Margin: -8
+    0.4594         0
+
+Seventysixers vs Grizzlies
+Margin: -5
+    0.5908         0
+
+Seventysixers vs Pelicans
+Margin: 11
+    0.5906    1.0000
+
+Seventysixers vs Pistons
+Margin: 18
+    0.9568    1.0000
+
+Seventysixers vs Raptors
+Margin: -9
+    0.0998         0
+
+Seventysixers vs Lakers
+Margin: -11
+    0.0829         0
+
+Seventysixers vs Nets
+Margin: 1
+    0.0932    1.0000
+
+Seventysixers vs Pelicans
+Margin: -15
+    0.2210         0
+
+Seventysixers vs Suns
+Margin: -7
+    0.8526         0
+
+Seventysixers vs Kings
+Margin: -2
+    0.7967         0
+
+Spurs vs Warriors
+Margin: 29
+    0.9618    1.0000
+
+Spurs vs Kings
+Margin: 8
+    0.6883    1.0000
+
+Spurs vs Pelicans
+Margin: 19
+    0.9619    1.0000
+
+Spurs vs Heat
+Margin: 7
+    0.9205    1.0000
+
+Spurs vs Jazz
+Margin: -15
+    0.4247         0
+
+Spurs vs Jazz
+Margin: 14
+    0.9608    1.0000
+
+Spurs vs Clippers
+Margin: -24
+    0.0819         0
+
+Spurs vs Rockets
+Margin: -2
+    0.3922         0
+
+Spurs vs Pistons
+Margin: 10
+    0.9075    1.0000
+
+Spurs vs Rockets
+Margin: 6
+    0.9608    1.0000
+
+Spurs vs Heat
+Margin: 4
+    0.9567    1.0000
+
+Spurs vs Kings
+Margin: 5
+    0.9561    1.0000
+
+Spurs vs Lakers
+Margin: 9
+    0.9263    1.0000
+
+Spurs vs Mavericks
+Margin: 5
+    0.3745    1.0000
+
+Spurs vs Hornets
+Margin: 5
+    0.6139    1.0000
+
+Spurs vs Celtics
+Margin: 6
+    0.4296    1.0000
+
+Spurs vs Wizards
+Margin: 12
+    0.9572    1.0000
+
+Spurs vs Magic
+Margin: -12
+    0.1094         0
+
+Spurs vs Mavericks
+Margin: 7
+    0.3088    1.0000
+
+Spurs vs Wizards
+Margin: 2
+    0.7519    1.0000
+
+Spurs vs Bucks
+Margin: 1
+    0.3602    1.0000
+
+Spurs vs Timberwolves
+Margin: 14
+    0.9135    1.0000
+
+Spurs vs Bulls
+Margin: -4
+    0.1107         0
+
+Spurs vs Nets
+Margin: 29
+    0.9444    1.0000
+
+Spurs vs Celtics
+Margin: 7
+    0.9056    1.0000
+
+Spurs vs Suns
+Margin: 15
+    0.7925    1.0000
+
+Spurs vs Pelicans
+Margin: 13
+    0.9621    1.0000
+
+Spurs vs Rockets
+Margin: 2
+    0.5300    1.0000
+
+Spurs vs Clippers
+Margin: -5
+    0.1076         0
+
+Spurs vs Trailblazers
+Margin: 20
+    0.9564    1.0000
+
+Spurs vs Bulls
+Margin: 19
+    0.9289    1.0000
+
+Suns vs Kings
+Margin: -19
+    0.0819         0
+
+Suns vs Thunder
+Margin: -3
+    0.7346         0
+
+Suns vs Warriors
+Margin: -6
+    0.4661         0
+
+Suns vs Clippers
+Margin: -18
+    0.1080         0
+
+Suns vs Trailblazers
+Margin: 3
+    0.8149    1.0000
+
+Suns vs Pelicans
+Margin: 1
+    0.7373    1.0000
+
+Suns vs Lakers
+Margin: -11
+    0.0858         0
+
+Suns vs Trailblazers
+Margin: -3
+    0.2594         0
+
+Suns vs Pistons
+Margin: 7
+    0.8214    1.0000
+
+Suns vs Nets
+Margin: -18
+    0.2675         0
+
+Suns vs Warriors
+Margin: -13
+    0.1252         0
+
+Suns vs Nuggets
+Margin: -16
+    0.0821         0
+
+Suns vs Pacers
+Margin: 20
+    0.9073    1.0000
+
+Suns vs Seventysixers
+Margin: -15
+    0.0939         0
+
+Suns vs Wizards
+Margin: -5
+    0.7351         0
+
+Suns vs Magic
+Margin: 5
+    0.8923    1.0000
+
+Suns vs Timberwolves
+Margin: -13
+    0.9409         0
+
+Suns vs Nuggets
+Margin: -6
+    0.2765         0
+
+Suns vs Hawks
+Margin: 2
+    0.7527    1.0000
+
+Suns vs Warriors
+Margin: -29
+    0.0822         0
+
+Suns vs Jazz
+Margin: -7
+    0.0819         0
+
+Suns vs Pacers
+Margin: -15
+    0.4977         0
+
+Suns vs Lakers
+Margin: 4
+    0.9601    1.0000
+
+Suns vs Pelicans
+Margin: -1
+    0.9572         0
+
+Suns vs Knicks
+Margin: 2
+    0.9587    1.0000
+
+Suns vs Spurs
+Margin: -15
+    0.1163         0
+
+Suns vs Thunder
+Margin: -13
+    0.0819         0
+
+Suns vs Timberwolves
+Margin: -7
+    0.0861         0
+
+Suns vs Rockets
+Margin: -14
+    0.0824         0
+
+Suns vs Seventysixers
+Margin: 7
+    0.1329    1.0000
+
+Suns vs Rockets
+Margin: -16
+    0.0819         0
+
+Thunder vs Seventysixers
+Margin: 6
+    0.0992    1.0000
+
+Thunder vs Suns
+Margin: 3
+    0.3871    1.0000
+
+Thunder vs Lakers
+Margin: 17
+    0.9069    1.0000
+
+Thunder vs Clippers
+Margin: 2
+    0.5142    1.0000
+
+Thunder vs Warriors
+Margin: -26
+    0.1073         0
+
+Thunder vs Timberwolves
+Margin: 20
+    0.9415    1.0000
+
+Thunder vs Heat
+Margin: 12
+    0.9438    1.0000
+
+Thunder vs Raptors
+Margin: -10
+    0.1148         0
+
+Thunder vs Clippers
+Margin: -2
+    0.2335         0
+
+Thunder vs Magic
+Margin: -2
+    0.5411         0
+
+Thunder vs Pistons
+Margin: -16
+    0.1153         0
+
+Thunder vs Rockets
+Margin: 2
+    0.3570    1.0000
+
+Thunder vs Nets
+Margin: 19
+    0.9566    1.0000
+
+Thunder vs Pacers
+Margin: -4
+    0.1010         0
+
+Thunder vs Lakers
+Margin: -2
+    0.4070         0
+
+Thunder vs Kings
+Margin: -15
+    0.0854         0
+
+Thunder vs Nuggets
+Margin: 3
+    0.1071    1.0000
+
+Thunder vs Pistons
+Margin: 18
+    0.8821    1.0000
+
+Thunder vs Knicks
+Margin: 9
+    0.9243    1.0000
+
+Thunder vs Wizards
+Margin: 11
+    0.6325    1.0000
+
+Thunder vs Pelicans
+Margin: 9
+    0.9605    1.0000
+
+Thunder vs Hawks
+Margin: 3
+    0.9433    1.0000
+
+Thunder vs Rockets
+Margin: -3
+    0.0906         0
+
+Thunder vs Celtics
+Margin: 3
+    0.0872    1.0000
+
+Thunder vs Trailblazers
+Margin: -19
+    0.1072         0
+
+Thunder vs Jazz
+Margin: -20
+    0.1050         0
+
+Thunder vs Suns
+Margin: 13
+    0.9603    1.0000
+
+Thunder vs Hawks
+Margin: -2
+    0.4116         0
+
+Thunder vs Pelicans
+Margin: 11
+    0.7979    1.0000
+
+Thunder vs Celtics
+Margin: 5
+    0.9466    1.0000
+
+Thunder vs Timberwolves
+Margin: 12
+    0.9478    1.0000
+
+Thunder vs Heat
+Margin: 12
+    0.9442    1.0000
+
+Timberwolves vs Grizzlies
+Margin: -4
+    0.5426         0
+
+Timberwolves vs Kings
+Margin: -3
+    0.3961         0
+
+Timberwolves vs Grizzlies
+Margin: 36
+    0.9621    1.0000
+
+Timberwolves vs Nuggets
+Margin: -3
+    0.3537         0
+
+Timberwolves vs Thunder
+Margin: -20
+    0.0939         0
+
+Timberwolves vs Nets
+Margin: -9
+    0.1247         0
+
+Timberwolves vs Magic
+Margin: 16
+    0.9570    1.0000
+
+Timberwolves vs Clippers
+Margin: -14
+    0.0939         0
+
+Timberwolves vs Lakers
+Margin: 26
+    0.9615    1.0000
+
+Timberwolves vs Hornets
+Margin: -7
+    0.5150         0
+
+Timberwolves vs Seventysixers
+Margin: 24
+    0.9569    1.0000
+
+Timberwolves vs Grizzlies
+Margin: -22
+    0.0854         0
+
+Timberwolves vs Celtics
+Margin: -6
+    0.9551         0
+
+Timberwolves vs Pelicans
+Margin: -21
+    0.0941         0
+
+Timberwolves vs Suns
+Margin: 13
+    0.1660    1.0000
+
+Timberwolves vs Warriors
+Margin: -13
+    0.1072         0
+
+Timberwolves vs Jazz
+Margin: -9
+    0.3515         0
+
+Timberwolves vs Knicks
+Margin: -2
+    0.2227         0
+
+Timberwolves vs Knicks
+Margin: -4
+    0.0819         0
+
+Timberwolves vs Hornets
+Margin: 5
+    0.1141    1.0000
+
+Timberwolves vs Spurs
+Margin: -14
+    0.2418         0
+
+Timberwolves vs Raptors
+Margin: -14
+    0.7140         0
+
+Timberwolves vs Pistons
+Margin: -27
+    0.0822         0
+
+Timberwolves vs Warriors
+Margin: -8
+    0.9366         0
+
+Timberwolves vs Bulls
+Margin: 5
+    0.6560    1.0000
+
+Timberwolves vs Rockets
+Margin: -2
+    0.9037         0
+
+Timberwolves vs Suns
+Margin: 7
+    0.9020    1.0000
+
+Timberwolves vs Hawks
+Margin: 8
+    0.5586    1.0000
+
+Timberwolves vs Kings
+Margin: -4
+    0.8801         0
+
+Timberwolves vs Thunder
+Margin: -12
+    0.1097         0
+
+Timberwolves vs Hawks
+Margin: 14
+    0.9580    1.0000
+
+Trailblazers vs Jazz
+Margin: 9
+    0.5137    1.0000
+
+Trailblazers vs Clippers
+Margin: -8
+    0.5505         0
+
+Trailblazers vs Nuggets
+Margin: 2
+    0.4706    1.0000
+
+Trailblazers vs Warriors
+Margin: -23
+    0.0941         0
+
+Trailblazers vs Suns
+Margin: -3
+    0.1320         0
+
+Trailblazers vs Mavericks
+Margin: 10
+    0.9043    1.0000
+
+Trailblazers vs Grizzlies
+Margin: 6
+    0.5685    1.0000
+
+Trailblazers vs Suns
+Margin: 3
+    0.7337    1.0000
+
+Trailblazers vs Clippers
+Margin: -31
+    0.0819         0
+
+Trailblazers vs Kings
+Margin: 2
+    0.8328    1.0000
+
+Trailblazers vs Nuggets
+Margin: 7
+    0.7968    1.0000
+
+Trailblazers vs Bulls
+Margin: -25
+    0.0827         0
+
+Trailblazers vs Rockets
+Margin: -17
+    0.3195         0
+
+Trailblazers vs Pelicans
+Margin: -12
+    0.1082         0
+
+Trailblazers vs Nets
+Margin: 20
+    0.9594    1.0000
+
+Trailblazers vs Knicks
+Margin: -4
+    0.6350         0
+
+Trailblazers vs Cavaliers
+Margin: -12
+    0.0819         0
+
+Trailblazers vs Pelicans
+Margin: 15
+    0.9568    1.0000
+
+Trailblazers vs Rockets
+Margin: -16
+    0.1263         0
+
+Trailblazers vs Pacers
+Margin: 22
+    0.9621    1.0000
+
+Trailblazers vs Heat
+Margin: 7
+    0.5678    1.0000
+
+Trailblazers vs Bulls
+Margin: 2
+    0.5453    1.0000
+
+Trailblazers vs Bucks
+Margin: -8
+    0.4858         0
+
+Trailblazers vs Grizzlies
+Margin: -2
+    0.9497         0
+
+Trailblazers vs Pacers
+Margin: -7
+    0.8313         0
+
+Trailblazers vs Clippers
+Margin: -1
+    0.4013         0
+
+Trailblazers vs Thunder
+Margin: 19
+    0.9568    1.0000
+
+Trailblazers vs Nuggets
+Margin: -12
+    0.0820         0
+
+Trailblazers vs Warriors
+Margin: -45
+    0.0819         0
+
+Trailblazers vs Kings
+Margin: -5
+    0.8975         0
+
+Trailblazers vs Mavericks
+Margin: -1
+    0.1833         0
+
+Trailblazers vs Spurs
+Margin: -20
+    0.1044         0
+
+Trailblazers vs Raptors
+Margin: -4
+    0.1288         0
+
+Warriors vs Spurs
+Margin: -29
+    0.0819         0
+
+Warriors vs Pelicans
+Margin: 8
+    0.9494    1.0000
+
+Warriors vs Suns
+Margin: 6
+    0.5739    1.0000
+
+Warriors vs Trailblazers
+Margin: 23
+    0.9440    1.0000
+
+Warriors vs Thunder
+Margin: 26
+    0.9567    1.0000
+
+Warriors vs Lakers
+Margin: -20
+    0.0829         0
+
+Warriors vs Pelicans
+Margin: 10
+    0.9262    1.0000
+
+Warriors vs Mavericks
+Margin: 21
+    0.9551    1.0000
+
+Warriors vs Nuggets
+Margin: 24
+    0.9439    1.0000
+
+Warriors vs Suns
+Margin: 13
+    0.9267    1.0000
+
+Warriors vs Raptors
+Margin: 6
+    0.8562    1.0000
+
+Warriors vs Celtics
+Margin: 16
+    0.9617    1.0000
+
+Warriors vs Bucks
+Margin: 3
+    0.8843    1.0000
+
+Warriors vs Pacers
+Margin: 37
+    0.9621    1.0000
+
+Warriors vs Lakers
+Margin: 43
+    0.9619    1.0000
+
+Warriors vs Lakers
+Margin: 24
+    0.9603    1.0000
+
+Warriors vs Timberwolves
+Margin: 13
+    0.9567    1.0000
+
+Warriors vs Hawks
+Margin: 5
+    0.5467    1.0000
+
+Warriors vs Rockets
+Margin: -5
+    0.1133         0
+
+Warriors vs Suns
+Margin: 29
+    0.9596    1.0000
+
+Warriors vs Pacers
+Margin: 36
+    0.9577    1.0000
+
+Warriors vs Clippers
+Margin: 17
+    0.9179    1.0000
+
+Warriors vs Jazz
+Margin: 7
+    0.9482    1.0000
+
+Warriors vs Grizzlies
+Margin: -21
+    0.0819         0
+
+Warriors vs Timberwolves
+Margin: 8
+    0.1898    1.0000
+
+Warriors vs Pelicans
+Margin: 4
+    0.4312    1.0000
+
+Warriors vs Knicks
+Margin: 13
+    0.9621    1.0000
+
+Warriors vs Trailblazers
+Margin: 45
+    0.9621    1.0000
+
+Warriors vs Jazz
+Margin: 30
+    0.9569    1.0000
+
+Warriors vs Nets
+Margin: 16
+    0.5631    1.0000
+
+Warriors vs Pistons
+Margin: 6
+    0.7344    1.0000
+
+Warriors vs Cavaliers
+Margin: -1
+    0.9122         0
+
+Wizards vs Hawks
+Margin: -15
+    0.2086         0
+
+Wizards vs Grizzlies
+Margin: -9
+    0.1478         0
+
+Wizards vs Raptors
+Margin: -10
+    0.0935         0
+
+Wizards vs Hawks
+Margin: 3
+    0.8687    1.0000
+
+Wizards vs Magic
+Margin: -2
+    0.9423         0
+
+Wizards vs Rockets
+Margin: -8
+    0.5971         0
+
+Wizards vs Celtics
+Margin: 25
+    0.9357    1.0000
+
+Wizards vs Cavaliers
+Margin: -11
+    0.1884         0
+
+Wizards vs Bulls
+Margin: -11
+    0.1052         0
+
+Wizards vs Seventysixers
+Margin: -7
+    0.0933         0
+
+Wizards vs Knicks
+Margin: 7
+    0.9607    1.0000
+
+Wizards vs Heat
+Margin: -3
+    0.0966         0
+
+Wizards vs Suns
+Margin: 5
+    0.4320    1.0000
+
+Wizards vs Magic
+Margin: 3
+    0.9123    1.0000
+
+Wizards vs Spurs
+Margin: -12
+    0.0996         0
+
+Wizards vs Kings
+Margin: 6
+    0.6769    1.0000
+
+Wizards vs Thunder
+Margin: -11
+    0.3012         0
+
+Wizards vs Spurs
+Margin: -2
+    0.2607         0
+
+Wizards vs Nets
+Margin: 5
+    0.5604    1.0000
+
+Wizards vs Magic
+Margin: -8
+    0.1078         0
+
+Wizards vs Nuggets
+Margin: 7
+    0.4955    1.0000
+
+Wizards vs Bucks
+Margin: 5
+    0.4138    1.0000
+
+Wizards vs Heat
+Margin: -11
+    0.6194         0
+
+Wizards vs Hornets
+Margin: 3
+    0.8221    1.0000
+
+Wizards vs Pistons
+Margin: 14
+    0.9569    1.0000
+
+Wizards vs Clippers
+Margin: 7
+    0.1596    1.0000
+
+Wizards vs Pacers
+Margin: -2
+    0.2089         0
+
+Wizards vs Bulls
+Margin: 10
+    0.4339    1.0000
+
+Wizards vs Bucks
+Margin: -27
+    0.0819         0
+
+Wizards vs Bucks
+Margin: 5
+    0.2019    1.0000
+
+Guessed Correctly: 79.8523 %
